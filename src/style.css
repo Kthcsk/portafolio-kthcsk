@@ -156,7 +156,7 @@ pre {
 .site-title {
     font-family: 'Righteous',helvetica,sans-serif;
     font-size: 26px;
-    color: #22A0B6;
+    color: #01607E;
     line-height: 1.5em;
     position: relative;
     z-index: 12;
@@ -167,10 +167,10 @@ pre {
     position: fixed;
 }
 .site-title a,
-.site-title a:visited { color: #90D4C5; }
+.site-title a:visited { color: #01607E; }
 .site-title a:hover,
 .site-title a:active {
-    color: #90D4C5;
+    color: #01607E;
     opacity: 0.8;
 }
 .site-title div { display: inline; }
@@ -186,7 +186,7 @@ pre {
     width: 90%;
 }
 .site-tagline a,
-.site-tagline a:visited { color: #90D4C5; }
+.site-tagline a:visited { color: #7B1346; }
 .site-tagline a:hover {
     color: #2c2c2c;
 }
